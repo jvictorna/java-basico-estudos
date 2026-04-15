@@ -10,6 +10,7 @@ de Java básico do professor Gustavo Guanabara — CursoemVídeo.
 ## 📚 Conteúdo
 - Aula 04 — Primeiro programa, estrutura básica e System.out.println
 - Aula 06 — Tipos primitivos, manipulação de dados, vetores e entrada com Scanner
+- Aula 07 — Operadores aritméticos, operadores unários e classe Math aplicados ao projeto de governança
 
 ## 📁 Estrutura do Repositório
 Cada aula está organizada em sua própria pasta.
