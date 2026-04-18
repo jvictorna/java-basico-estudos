@@ -7,10 +7,12 @@ de Java básico do professor Gustavo Guanabara — CursoemVídeo.
 - Java JDK 25
 - Apache NetBeans IDE 29
 
-## 📚 Conteúdo
-- Aula 04 — Primeiro programa, estrutura básica e System.out.println
-- Aula 06 — Tipos primitivos, manipulação de dados, vetores e entrada com Scanner
-- Aula 07 — Operadores aritméticos, operadores unários e classe Math aplicados ao projeto de governança
+📚 Conteúdo
+
+* Aula 04 — Primeiro programa, estrutura básica e System.out.println
+* Aula 06 — Tipos primitivos, manipulação de dados, vetores e entrada com Scanner
+* Aula 07 — Operadores aritméticos, operadores unários e classe Math aplicados ao projeto de governança
+* Aula 08 — Operadores ternário, relacionais e lógicos aplicados ao projeto de governança
 
 ## 📁 Estrutura do Repositório
 Cada aula está organizada em sua própria pasta.
