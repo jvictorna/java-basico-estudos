@@ -13,6 +13,7 @@ de Java básico do professor Gustavo Guanabara — CursoemVídeo.
 * Aula 06 — Tipos primitivos, manipulação de dados, vetores e entrada com Scanner
 * Aula 07 — Operadores aritméticos, operadores unários e classe Math aplicados ao projeto de governança
 * Aula 08 — Operadores ternário, relacionais e lógicos aplicados ao projeto de governança
+* Aula 09 e 10 — Estruturas condicionais (if/else, else if, switch/case) aplicadas ao projeto de governança
 
 ## 📁 Estrutura do Repositório
 Cada aula está organizada em sua própria pasta.
