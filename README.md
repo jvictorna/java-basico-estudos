@@ -15,6 +15,7 @@ de Java básico do professor Gustavo Guanabara — CursoemVídeo.
 * Aula 08 — Operadores ternário, relacionais e lógicos aplicados ao projeto de governança
 * Aula 09 e 10 — Estruturas condicionais (if/else, else if, switch/case) aplicadas ao projeto de governança
 * Aula 11 — Estruturas de repetição com while (break e continue) aplicadas ao projeto de governança
+* Aula 12 e 13 — Estruturas de repetição (do/while e for) aplicadas ao projeto de governança
 
 ## 📁 Estrutura do Repositório
 Cada aula está organizada em sua própria pasta.
