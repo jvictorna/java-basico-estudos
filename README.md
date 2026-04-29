@@ -1,13 +1,16 @@
-# ☕ Java Básico — Estudos e Exercícios
+# ☕ Java — Estudos e Exercícios
 
-Repositório com exercícios e práticas desenvolvidos durante o curso
-de Java básico do professor Gustavo Guanabara — CursoemVídeo.
+Repositório com exercícios e práticas desenvolvidos durante os cursos
+de Java do professor Gustavo Guanabara — CursoemVídeo.
 
 ## 🛠️ Ferramentas
 - Java JDK 25
 - Apache NetBeans IDE 29
 
-📚 Conteúdo
+---
+
+## 📚 Java Básico
+Exercícios organizados na pasta `Java Basico/`
 
 * Aula 04 — Primeiro programa, estrutura básica e System.out.println
 * Aula 06 — Tipos primitivos, manipulação de dados, vetores e entrada com Scanner
@@ -18,9 +21,19 @@ de Java básico do professor Gustavo Guanabara — CursoemVídeo.
 * Aula 12 e 13 — Estruturas de repetição (do/while e for) aplicadas ao projeto de governança
 * Aula 14 e 15 — Vetores, Arrays.fill e métodos com e sem retorno aplicados ao projeto de governança
 
-## 📁 Estrutura do Repositório
-Cada aula está organizada em sua própria pasta.
-Para abrir no NetBeans: File → Open Project → selecione a pasta desejada.
+---
+
+## 🎯 Java POO
+Exercícios organizados na pasta `Java POO/`
+
+* Aula 02 — Classes e objetos aplicados ao projeto de governança
+
+---
+
+## 📁 Como abrir os projetos
+Cada aula está organizada em sua própria pasta dentro de `Java Basico/` ou `Java POO/`.
+
+Para abrir no NetBeans: **File → Open Project → selecione a pasta da aula desejada**
 
 O código fonte de cada exercício fica em:
 `NomeDaPasta → src → nomedoprojeto → NomeDoProjeto.java`
