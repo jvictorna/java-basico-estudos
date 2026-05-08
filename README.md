@@ -24,9 +24,8 @@ Exercícios organizados na pasta `Java Basico/`
 ---
 
 ## 🎯 Java POO
-Exercícios organizados na pasta `Java POO/`
-
 * Aula 02 — Classes e objetos aplicados ao projeto de governança
+* Aulas 03 e 04 — Visibilidade, getters, setters e construtor aplicados ao projeto de governança
 
 ---
 
