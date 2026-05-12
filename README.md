@@ -27,7 +27,7 @@ Exercícios organizados na pasta `Java Basico/`
 * Aula 02 — Classes e objetos aplicados ao projeto de governança
 * Aulas 03 e 04 — Visibilidade, getters, setters e construtor aplicados ao projeto de governança
 * Aulas 03 e 04 (complementar) — Setters com validação e construtor seguro aplicados ao projeto de governança
-* Aula 05 — Sistema bancário interativo com menu, Scanner e encapsulamento
+* Aula 03 e 04 (complementar 2) — Sistema bancário interativo com menu, Scanner e encapsulamento
 
 ---
 
