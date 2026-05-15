@@ -30,6 +30,7 @@ Exercícios organizados na pasta `Java Basico/`
 * Aula 03 e 04 (complementar 2) — Sistema bancário interativo com menu, Scanner e encapsulamento
 * Aula 06 — Encapsulamento com interface aplicado ao projeto de governança
 * Aulas 07 e 08 — Relacionamento entre classes: Quarto e CheckList aplicados ao projeto de governança
+* Aulas 10 e 11 — Herança: classe abstrata Quarto, QuartoComum e QuartoLuxo aplicados ao projeto de governança
 
 ---
 
